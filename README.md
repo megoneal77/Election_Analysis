@@ -12,7 +12,9 @@ The results from Deliverable 1 were saved to a text file in the Analysis folder.
 ![election photo](https://user-images.githubusercontent.com/97324372/179420047-727ba164-47da-40ad-a656-78571e263232.png)
 
 As noted, there were a total of 369,711 votes cast. 23% for Charles Casper Stockham, 73.8% for Diana DeGette, and 3.1% for Raymon Anthony Doane. 
+
 ![Election Results 2](https://user-images.githubusercontent.com/97324372/179420684-6cb472ef-7ccd-4353-a386-917ec9cccc10.png)
+
 As seen here, Denver had the largest turn out with 83%, followed by Jefferson with 10%, and Arapahoe with 7%. 
 
 ## Summary
